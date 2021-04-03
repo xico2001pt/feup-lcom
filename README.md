@@ -18,4 +18,4 @@ Final = 0.5 * (0.66 * MÁXIMO(Teste 1, Teste 2) + 0.33 * MÍNIMO(Teste 1, Teste 
 
 | Teste 1 | Teste 2 | Projeto | Final
 |---|---|---|---
-| 20.00 | ??.?? | ??.?? | ??
+| 20.00 | 11.60 | 19.49 | 18
